@@ -1,0 +1,20 @@
+p{
+  background-color: orange;
+  display:inline-block;
+
+  width: 200px;
+}
+.second-pae{
+visibility: hidden;
+background-color: red;
+}
+span{
+  background-color: yellow;
+  width:250px;
+}
+/*
+.dc{
+  display: block;
+  width: 400px;
+
+}
